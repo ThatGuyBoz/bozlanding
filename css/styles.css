@@ -80,7 +80,7 @@ h1 {
 .link-button:hover {
     background: linear-gradient(135deg, #10e7ae 0%, #07902e 100%);
     color: white;
-    transform: translateY(-2px);
+    /* transform: translateY(-2px); */
     box-shadow: 0 10px 20px rgba(16, 231, 174, 0.3);
 }
 
